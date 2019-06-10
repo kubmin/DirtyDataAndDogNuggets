@@ -1,0 +1,7 @@
+.DS_Store
+features_caltech101.p
+features_caltech256.p
+Caltech101/*
+Caltech101
+Caltech256/*
+Caltech256
